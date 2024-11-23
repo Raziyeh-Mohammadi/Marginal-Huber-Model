@@ -23,6 +23,9 @@ To install the necessary packages, run the following command in R:
 
 ```R
 install.packages(c("rstan", "tidyr", "dplyr"))
+---
+
+
 
 ## **Reference to the Paper**
 This repository implements the methodology introduced in the paper:
