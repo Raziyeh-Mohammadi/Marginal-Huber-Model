@@ -12,6 +12,6 @@ To install the necessary packages, run:
 install.packages(c("rstan", "tidyr", "dplyr"))  
 Contact  
 For any questions or feedback, feel free to reach out at:
-Email address: mohammadirazieh2018@gmail.com
+Email address: raziyeh.mohammadi@duke-nus.edu.sg
 
 
