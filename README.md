@@ -24,11 +24,16 @@ To install the necessary packages, run the following command in R:
 ```R
 install.packages(c("rstan", "tidyr", "dplyr"))
 
-This repository is based on the methodology described in the paper:
+## **Reference to the Paper**
+This repository implements the methodology introduced in the paper:
+
 **"Robustifying Marginal Linear Models for Correlated Responses Using a Constructive Multivariate Huber Distribution"**  
 *Raziyeh Mohammadi¹², Iraj Kazemi²*  
 ¹Department of Statistics, Faculty of Mathematics & Statistics, University of Isfahan, Iran  
-²Duke-NUS Medical School, National University of Singapore, Singapore  
+²Centre for Quantitative Medicine, Duke-NUS Medical School, National University of Singapore  
+
+If you use this code or methodology in your work, please cite the paper.
+  
 
 Contact
 For any questions or feedback, feel free to reach out at:
