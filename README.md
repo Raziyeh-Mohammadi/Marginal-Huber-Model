@@ -27,6 +27,15 @@ This repository implements the methodology introduced in the paper that is under
 
 ---
 
+  
+
+Contact
+For any questions or feedback, feel free to reach out at:
+
+📧 Email: raziyeh.mohammadi@duke-nus.edu.sg
+
+---
+
 ## **Installation**
 To install the necessary packages, run the following command in R:
 
@@ -35,11 +44,5 @@ install.packages(c("rstan", "tidyr", "dplyr"))
 ---
 
 
-  
-
-Contact
-For any questions or feedback, feel free to reach out at:
-
-📧 Email: raziyeh.mohammadi@duke-nus.edu.sg
 
 
