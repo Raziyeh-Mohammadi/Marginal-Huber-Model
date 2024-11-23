@@ -17,17 +17,17 @@ Additionally, the **modified Cholesky decomposition** is employed to construct t
 - **Diagnostics and Model Selection**: Facilitates model evaluation and selection with robust diagnostic measures.
 
 ---
+
 ## **Reference to the Paper**
-This repository implements the methodology introduced in the paper that is under review:
+This repository implements the methodology introduced in the paper that is currently under review:
 
 **"Robustifying Marginal Linear Models for Correlated Responses Using a Constructive Multivariate Huber Distribution"**  
 *Raziyeh Mohammadi¹², Iraj Kazemi²*  
 ¹Department of Statistics, Faculty of Mathematics & Statistics, University of Isfahan, Iran  
-²Duke-NUS Medical School, National University of Singapore  
+²Duke-NUS Medical School, National University of Singapore
 
 ---
 
-  
 
 Contact
 For any questions or feedback, feel free to reach out at:
