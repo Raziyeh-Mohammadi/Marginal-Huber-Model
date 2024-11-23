@@ -25,8 +25,6 @@ To install the necessary packages, run the following command in R:
 install.packages(c("rstan", "tidyr", "dplyr"))
 ---
 
-
-
 ## **Reference to the Paper**
 This repository implements the methodology introduced in the paper:
 
@@ -36,6 +34,7 @@ This repository implements the methodology introduced in the paper:
 ²Centre for Quantitative Medicine, Duke-NUS Medical School, National University of Singapore  
 
 If you use this code or methodology in your work, please cite the paper.
+---
   
 
 Contact
