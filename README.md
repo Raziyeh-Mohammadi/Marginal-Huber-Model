@@ -1,7 +1,14 @@
 # **Robustifying Marginal Linear Models for Correlated Responses Using a Constructive Multivariate Huber Distribution**
 
 ## **Overview**
-We present a novel approach to analyzing correlated data through a robust marginal model that incorporates a multivariate Huber distribution. This model provides robustness against outliers and features a **tuning parameter** to control the degree of robustness, where larger values approximate normality and smaller values enhance robustness. 
+We present a novel approach to analyzing correlated data through a robust marginal model that incorporates a multivariate Huber distribution. This repository is based on the methodology described in the paper:
+
+**"Robustifying Marginal Linear Models for Correlated Responses Using a Constructive Multivariate Huber Distribution"**  
+*Raziyeh Mohammadi¹², Iraj Kazemi²*  
+¹Department of Statistics, Faculty of Mathematics & Statistics, University of Isfahan, Iran  
+²Duke-NUS Medical School, National University of Singapore, Singapore  
+
+This model provides robustness against outliers and features a **tuning parameter** to control the degree of robustness, where larger values approximate normality and smaller values enhance robustness. 
 
 Unlike prior models with constant tuning parameters (often fixed near 2), our approach allows **subject-specific tuning parameters**, enabling analysts to adjust the influence of individual subjects based on their observations. Parameters are estimated using the exact likelihood function via the **Hamiltonian Monte Carlo (HMC)** algorithm implemented in Stan. 
 
