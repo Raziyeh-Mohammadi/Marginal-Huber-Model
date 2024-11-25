@@ -23,6 +23,7 @@ This repository implements the methodology introduced in the paper that is curre
 
 **"Robustifying Marginal Linear Models for Correlated Responses Using a Constructive Multivariate Huber Distribution"**  
 *Raziyeh Mohammadi¹, Iraj Kazemi²* 
+
 ¹Duke-NUS Medical School, National University of Singapore, Singapore
 ²Department of Statistics, Faculty of Mathematics & Statistics, University of Isfahan, Iran 
 
