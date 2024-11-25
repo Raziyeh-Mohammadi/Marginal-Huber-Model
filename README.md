@@ -25,6 +25,7 @@ This repository implements the methodology introduced in the paper that is curre
 *Raziyeh Mohammadi¹, Iraj Kazemi²* 
 
 ¹Duke-NUS Medical School, National University of Singapore, Singapore
+
 ²Department of Statistics, Faculty of Mathematics & Statistics, University of Isfahan, Iran 
 
 
