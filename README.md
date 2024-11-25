@@ -1,7 +1,7 @@
 # **Robustifying Marginal Linear Models for Correlated Responses Using a Constructive Multivariate Huber Distribution**
 
 ## **Overview**
-We present a novel approach to analyzing correlated data through a robust marginal model that incorporates a multivariate Huber distribution.This model provides robustness against outliers and features a **tuning parameter** to control the degree of robustness, where larger values approximate normality and smaller values enhance robustness. 
+We present a novel approach to analyzing correlated data through a robust marginal model incorporating a multivariate Huber distribution. This model provides robustness against outliers and features a **tuning parameter** to control the degree of robustness, where larger values approximate normality and smaller values enhance robustness. 
 
 Unlike prior models with constant tuning parameters (often fixed near 2), our approach allows **subject-specific tuning parameters**, enabling analysts to adjust the influence of individual subjects based on their observations. Parameters are estimated using the exact likelihood function via the **Hamiltonian Monte Carlo (HMC)** algorithm implemented in Stan. 
 
@@ -11,7 +11,7 @@ Additionally, the **modified Cholesky decomposition** is employed to construct t
 
 ## **Features**
 - **Robust Modeling**: Introduces robustness against outliers for correlated responses through a constructive multivariate Huber distribution.
-- **Flexible Parameterization**: Employs the modified Cholesky decomposition for efficient estimation of covariance matrices.
+- **Flexible Parameterization**: Employs the modified Cholesky decomposition to estimate covariance matrices efficiently.
 - **Subject-Varying Robustness**: Allows tuning parameters to vary across subjects, enabling individualized control over robustness.
 - **Hamiltonian Monte Carlo Sampling**: Uses the RStan library for computational efficiency and exact likelihood estimation.
 - **Diagnostics and Model Selection**: Facilitates model evaluation and selection with robust diagnostic measures.
@@ -22,9 +22,10 @@ Additionally, the **modified Cholesky decomposition** is employed to construct t
 This repository implements the methodology introduced in the paper that is currently under review:
 
 **"Robustifying Marginal Linear Models for Correlated Responses Using a Constructive Multivariate Huber Distribution"**  
-*Raziyeh Mohammadi², Iraj Kazemi²*  
-¹Department of Statistics, Faculty of Mathematics & Statistics, University of Isfahan, Iran  
-²Duke-NUS Medical School, National University of Singapore
+*Raziyeh Mohammadi¹, Iraj Kazemi²* 
+¹Duke-NUS Medical School, National University of Singapore, Singapore
+²Department of Statistics, Faculty of Mathematics & Statistics, University of Isfahan, Iran 
+
 
 ---
 
