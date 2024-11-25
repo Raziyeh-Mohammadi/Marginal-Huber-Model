@@ -22,7 +22,7 @@ Additionally, the **modified Cholesky decomposition** is employed to construct t
 This repository implements the methodology introduced in the paper that is currently under review:
 
 **"Robustifying Marginal Linear Models for Correlated Responses Using a Constructive Multivariate Huber Distribution"**  
-*Raziyeh Mohammadi¹, Iraj Kazemi²* 
+*Raziyeh Mohammadi¹, Iraj Kazemi²** 
 
 ¹Duke-NUS Medical School, National University of Singapore, Singapore
 
