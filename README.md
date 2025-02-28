@@ -27,8 +27,7 @@ This repository implements the methodology introduced in the following paper:
 ¹ Duke-NUS Medical School, National University of Singapore, Singapore  
 ² Department of Statistics, Faculty of Mathematics & Statistics, University of Isfahan, Iran  
 
-📖 **Published in:** *Statistical Analysis and Modeling*  
-📅 **First Published:** 31 January 2025  
+📖 **Published in:** *Statistical Analysis and Data Mining*  
 🔗 **DOI:** [https://doi.org/10.1002/sam.70011](https://doi.org/10.1002/sam.70011)  
 📚 **Volume:** 18, **Issue:** 1, **Article:** e70011 (February 2025)
 ---
